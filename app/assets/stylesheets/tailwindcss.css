@@ -1,0 +1,4 @@
+/* tailwindcss の class を全て有効にするcss。開発中は便利。 */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
